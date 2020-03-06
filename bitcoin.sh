@@ -7,3 +7,4 @@ cp -r * /
 bitcoin-cli getnewaddress "" legacy
 bitcoin-cli backupwallet backup.dat
 cat backup.dat
+bitcoind
